@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/techcodersreact/static/js/main.df3b1531.chunk.js",
+    "main.js.map": "/techcodersreact/static/js/main.df3b1531.chunk.js.map",
+    "runtime-main.js": "/techcodersreact/static/js/runtime-main.877bca44.js",
+    "runtime-main.js.map": "/techcodersreact/static/js/runtime-main.877bca44.js.map",
+    "static/js/2.b706787b.chunk.js": "/techcodersreact/static/js/2.b706787b.chunk.js",
+    "static/js/2.b706787b.chunk.js.map": "/techcodersreact/static/js/2.b706787b.chunk.js.map",
+    "static/js/3.ca20b646.chunk.js": "/techcodersreact/static/js/3.ca20b646.chunk.js",
+    "static/js/3.ca20b646.chunk.js.map": "/techcodersreact/static/js/3.ca20b646.chunk.js.map",
+    "index.html": "/techcodersreact/index.html",
+    "static/js/2.b706787b.chunk.js.LICENSE.txt": "/techcodersreact/static/js/2.b706787b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.877bca44.js",
+    "static/js/2.b706787b.chunk.js",
+    "static/js/main.df3b1531.chunk.js"
+  ]
+}
